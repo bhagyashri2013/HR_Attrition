@@ -93,10 +93,3 @@ END;
 
 EXEC sp_department_attrition;
 
---HR Employee Attrition Analysis using SQL Server
-
---• Imported HR data into SQL Server and validated records
---• Performed attrition analysis using GROUP BY and CASE statements
---• Calculated attrition rate and department-wise trends
---• Created Views and Stored Procedures for reusable insights
---• Generated HR insights to support retention strategies
